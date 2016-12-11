@@ -1,0 +1,27 @@
+{
+  "name": "ts-binary-reader",
+  "version": "1.0.0",
+  "description": "Helper to read from different datatypes from a binary array buffer",
+  "main": "lib/index.js",
+  "typings": "lib/index",
+  "files": [
+      "lib/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PTA-Schweiz/ts-binary-reader.git"
+  },
+  "keywords": [
+    "binaryreader",
+    "streamreader"
+  ],
+  "author": "stestaub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PTA-Schweiz/ts-binary-reader/issues"
+  },
+  "homepage": "https://github.com/PTA-Schweiz/ts-binary-reader#readme"
+}
